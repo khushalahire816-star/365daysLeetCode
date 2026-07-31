@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/0242-valid-anagram) |
+| [1207-unique-number-of-occurrences](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [1207-unique-number-of-occurrences](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/1207-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
