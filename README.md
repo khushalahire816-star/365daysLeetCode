@@ -15,9 +15,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/0018-4sum) |
 | [1207-unique-number-of-occurrences](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/1207-unique-number-of-occurrences) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
