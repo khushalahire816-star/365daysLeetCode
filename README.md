@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/0290-word-pattern) |
 | [0594-longest-harmonious-subsequence](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1207-unique-number-of-occurrences](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/0290-word-pattern) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
 |  |
 | ------- |
