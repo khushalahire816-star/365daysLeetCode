@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/0018-4sum) |
+| [0059-spiral-matrix-ii](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0594-longest-harmonious-subsequence](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1207-unique-number-of-occurrences](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
