@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0594-longest-harmonious-subsequence](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1207-unique-number-of-occurrences](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1929-concatenation-of-array](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/0059-spiral-matrix-ii) |
+| [1929-concatenation-of-array](https://github.com/khushalahire816-star/365daysLeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
